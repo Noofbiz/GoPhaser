@@ -4,6 +4,7 @@ A way to setup a quick and easy web server using golang to test Phaser.js projec
 To use:
   1) Install Go
   2) Clone this Repo to your workspace src folder
+     Or you can run the command "go get github.com/Noofbiz/GoPhaser"
   3) Navigate to this folder and run by entering "go run main.go" in your terminal / cmd prompt
   4) Open "localhost:8080" in your browser
 

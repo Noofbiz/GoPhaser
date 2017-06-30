@@ -22,7 +22,7 @@ func main() {
 func mainHandler(w http.ResponseWriter, r *http.Request) {
 	cwd, _ := os.Getwd()
 
-	p := filepath.Join(cwd, "index.html")
+	p := filepath.Join(cwd, "assets/index.html")
 
 	t := template.Must(template.ParseFiles(p))
 

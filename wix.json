@@ -2,18 +2,18 @@
   "product": "GoPhaser",
   "company": "Noofbiz",
   "license": "LICENSE",
-  "upgrade-code": "8615055C-D8E0-404C-93BE-441C503BA6F0",
+  "upgrade-code": "bbda68e8-0e3c-4ec0-843e-3efe816763c4",
   "files": {
-    "guid": "378896D8-6749-4821-870A-44CBBB791D0C",
+    "guid": "5cad0265-2f15-4231-86b6-7a57be3c4a72",
     "items": [
-      "go-msi.exe"
+      "GoPhaser.exe"
     ]
   },
   "directories": [
     "assets"
   ],
   "env": {
-    "guid": "0CB88C7F-85A7-4986-B6CE-1CAD5C17EA0E",
+    "guid": "80f9ea2e-b131-4eca-ba94-bec3669ced23",
     "vars": [
       {
         "name": "PATH",
@@ -26,7 +26,7 @@
     ]
   },
   "shortcuts": {
-    "guid": "6DAFD205-3D2D-43D7-BF78-33BFE8746D2A",
+    "guid": "1ad75374-1a6c-4c32-a3ab-982375e27007",
     "items": [
       {
         "name": "GoPhaser",
